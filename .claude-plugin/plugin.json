@@ -10,6 +10,6 @@
   "repository": "https://github.com/full-statck-skills/angular-skills",
   "source": "./",
   "skills": [
-    "./skills/angular",
+    "./skills/angular"
   ]
 }

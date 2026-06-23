@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/angular-skills",
-  "repository": "https://github.com/full-statck-skills/angular-skills",
+  "homepage": "https://github.com/full-stack-skills/angular-skills",
+  "repository": "https://github.com/full-stack-skills/angular-skills",
   "source": "./",
   "skills": [
     "./skills/angular"

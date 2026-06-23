@@ -6,7 +6,7 @@ Angular Skills — a curated Agent Skills package for AI coding agents, part of 
 
 - **Language**: Markdown + YAML frontmatter (skills), JSON (plugin manifest)
 - **License**: Apache 2.0
-- **Install**: `npx skills add full-statck-skills/angular-skills`
+- **Install**: `npx skills add full-stack-skills/angular-skills`
 
 ## Skills (1)
 

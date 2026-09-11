@@ -1,7 +1,7 @@
 ---
 name: angular
 description: Provides comprehensive guidance for Angular framework including components, modules, services, dependency injection, routing, forms, and TypeScript integration. Use when the user asks about Angular, needs to create Angular applications, implement Angular components, or work with Angular features.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
